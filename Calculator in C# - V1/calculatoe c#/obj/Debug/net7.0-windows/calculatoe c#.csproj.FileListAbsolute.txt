@@ -1,0 +1,42 @@
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\calculatoe c#\calculatoe c#\bin\Debug\net7.0-windows\calculatoe c#.exe
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\calculatoe c#\calculatoe c#\bin\Debug\net7.0-windows\calculatoe c#.deps.json
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\calculatoe c#\calculatoe c#\bin\Debug\net7.0-windows\calculatoe c#.runtimeconfig.json
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\calculatoe c#\calculatoe c#\bin\Debug\net7.0-windows\calculatoe c#.dll
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\calculatoe c#\calculatoe c#\bin\Debug\net7.0-windows\calculatoe c#.pdb
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\calculatoe c#\calculatoe c#\obj\Debug\net7.0-windows\calculatoe c#.csproj.AssemblyReference.cache
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\calculatoe c#\calculatoe c#\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\calculatoe c#\calculatoe c#\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\calculatoe c#\calculatoe c#\obj\Debug\net7.0-windows\calculatoe c#_MarkupCompile.cache
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\calculatoe c#\calculatoe c#\obj\Debug\net7.0-windows\calculatoe c#_MarkupCompile.lref
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\calculatoe c#\calculatoe c#\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\calculatoe c#\calculatoe c#\obj\Debug\net7.0-windows\calculatoe c#.g.resources
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\calculatoe c#\calculatoe c#\obj\Debug\net7.0-windows\calculatoe c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\calculatoe c#\calculatoe c#\obj\Debug\net7.0-windows\calculatoe c#.AssemblyInfoInputs.cache
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\calculatoe c#\calculatoe c#\obj\Debug\net7.0-windows\calculatoe c#.AssemblyInfo.cs
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\calculatoe c#\calculatoe c#\obj\Debug\net7.0-windows\calculatoe c#.csproj.CoreCompileInputs.cache
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\calculatoe c#\calculatoe c#\obj\Debug\net7.0-windows\calculatoe c#.dll
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\calculatoe c#\calculatoe c#\obj\Debug\net7.0-windows\refint\calculatoe c#.dll
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\calculatoe c#\calculatoe c#\obj\Debug\net7.0-windows\calculatoe c#.pdb
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\calculatoe c#\calculatoe c#\obj\Debug\net7.0-windows\calculatoe c#.genruntimeconfig.cache
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\calculatoe c#\calculatoe c#\obj\Debug\net7.0-windows\ref\calculatoe c#.dll
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\Calculator in C# - V1\calculatoe c#\bin\Debug\net7.0-windows\calculatoe c#.exe
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\Calculator in C# - V1\calculatoe c#\bin\Debug\net7.0-windows\calculatoe c#.deps.json
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\Calculator in C# - V1\calculatoe c#\bin\Debug\net7.0-windows\calculatoe c#.runtimeconfig.json
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\Calculator in C# - V1\calculatoe c#\bin\Debug\net7.0-windows\calculatoe c#.dll
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\Calculator in C# - V1\calculatoe c#\bin\Debug\net7.0-windows\calculatoe c#.pdb
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\Calculator in C# - V1\calculatoe c#\obj\Debug\net7.0-windows\calculatoe c#.csproj.AssemblyReference.cache
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\Calculator in C# - V1\calculatoe c#\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\Calculator in C# - V1\calculatoe c#\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\Calculator in C# - V1\calculatoe c#\obj\Debug\net7.0-windows\calculatoe c#_MarkupCompile.cache
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\Calculator in C# - V1\calculatoe c#\obj\Debug\net7.0-windows\calculatoe c#_MarkupCompile.lref
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\Calculator in C# - V1\calculatoe c#\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\Calculator in C# - V1\calculatoe c#\obj\Debug\net7.0-windows\calculatoe c#.g.resources
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\Calculator in C# - V1\calculatoe c#\obj\Debug\net7.0-windows\calculatoe c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\Calculator in C# - V1\calculatoe c#\obj\Debug\net7.0-windows\calculatoe c#.AssemblyInfoInputs.cache
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\Calculator in C# - V1\calculatoe c#\obj\Debug\net7.0-windows\calculatoe c#.AssemblyInfo.cs
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\Calculator in C# - V1\calculatoe c#\obj\Debug\net7.0-windows\calculatoe c#.csproj.CoreCompileInputs.cache
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\Calculator in C# - V1\calculatoe c#\obj\Debug\net7.0-windows\calculatoe c#.dll
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\Calculator in C# - V1\calculatoe c#\obj\Debug\net7.0-windows\refint\calculatoe c#.dll
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\Calculator in C# - V1\calculatoe c#\obj\Debug\net7.0-windows\calculatoe c#.pdb
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\Calculator in C# - V1\calculatoe c#\obj\Debug\net7.0-windows\calculatoe c#.genruntimeconfig.cache
+C:\Users\mees\source\repos\Calculator-in-C-Sharp\Calculator in C# - V1\calculatoe c#\obj\Debug\net7.0-windows\ref\calculatoe c#.dll
